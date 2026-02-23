@@ -183,7 +183,7 @@ function drawTitleScreen() {
   push();
   fill(255, 200);
   textSize(width / 20);
-  text("Data.Reflex Experience", 0, -100);
+  text("DATA.REFLEX", 0, -100);
   
   textSize(width / 60);
   text("Click to Start", 0, 0);
